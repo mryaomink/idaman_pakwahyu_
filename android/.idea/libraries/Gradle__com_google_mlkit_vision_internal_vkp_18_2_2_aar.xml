@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:vision-internal-vkp:18.2.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cbd5523b84806b9ca1c7149c6fb812f/jetified-vision-internal-vkp-18.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49221e79b273bb95e09e4df66f375255/transformed/jetified-vision-internal-vkp-18.2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/49221e79b273bb95e09e4df66f375255/transformed/jetified-vision-internal-vkp-18.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49221e79b273bb95e09e4df66f375255/transformed/jetified-vision-internal-vkp-18.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/vision-internal-vkp/18.2.2/ace98f39b262c59be4be4d52b871d1ba5dfff723/vision-internal-vkp-18.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
